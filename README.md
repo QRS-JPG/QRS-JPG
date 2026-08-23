@@ -1,4 +1,16 @@
-## Hi there 👋
+### Привет! Я QRS-JPG 👋
+
+Я начинающий Python-разработчик. Изучаю программирование, пишу полезные скрипты и создаю игры с графическим интерфейсом!
+
+## 🛠 Мой стек технологий
+* **Язык:** ![Python]
+* **Инструменты:** [VS Code] [Github]
+
+## 🚀 Мои проекты
+* 🌌 **Space Clicker** — космический кликер на Tkinter с покупкой авто-шахтеров и прокачкой силы клика.
+
+---
+
 
 <!--
 **QRS-JPG/QRS-JPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
